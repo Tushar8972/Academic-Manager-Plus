@@ -1,4 +1,5 @@
-#Academic Manager Plus
+# Academic Manager Plus
+
 The system introduces a modern approach to student information management, emphasizing ease of use and efficiency.
 
 Product Function:
